@@ -1,3 +1,3 @@
 # GitTests
 
-This file is used by tests in `<VVCommon>/src/go/src/texpad.com/utils/git` (and possibly others).
+This file is used by tests in git utils (and possibly others).
